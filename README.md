@@ -10,12 +10,12 @@ The audio for each language can be found in a folder labelled with the correspon
 
 Code | Language | Reader
 ---- | -------- | ------
-crk	Plains Cree	-
-csw	Swampy Cree	-
-en	English	Sara Florence Davidson
-fr	French	Amalie Lambert
-hax	Haida (Skidegate)	Roy Jones, Betty Richardson, Gladys Vandal, Laura Jormanainen
-hdn	Haida (Old Massett)	Jasḵwaan Bedard
+crk | Plains Cree | -
+csw | Swampy Cree | -
+en | English | Sara Florence Davidson
+fr | French | Amalie Lambert
+hax | Haida (Skidegate) | Roy Jones, Betty Richardson, Gladys Vandal, Laura Jormanainen
+hdn | Haida (Old Massett) | Jasḵwaan Bedard
 
 As the project is under active development, new languages and stories will be added in future updates.
 
